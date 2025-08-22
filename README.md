@@ -28,7 +28,7 @@ This repository contains a text rewriting model that can rewrite sentences in mu
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/email_rewriter_project.git
+git clone https://github.com/ohnogaurav/email_rewriter_project.git
 cd email_rewriter_project
 pip install -r requirements.txt
 ```
